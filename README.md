@@ -16,6 +16,7 @@ WHO provides data on COVID-19 based on all its patner countries. This makes it i
 
 This repo contains the main findings as plots in the figures folder. The env.yml contains information which packages need to be installed to run the notebook, and the notebook itself which contains all the analysis on reporting quality based on the scraped data from [WHO](https://covid19.who.int/table).
 
+You can also find the whole analysis of this report as a [blog post](https://medium.com/@a.abbood94/how-reliable-is-covid-19-data-from-different-countries-284f5c746f4f)
 ## Content
 
 I analyzed the data based on two different aspects: whether countries made a report stratified by weekday (binary reporting behavior) and how the sum of reported cases per week are distributed per weekday (relative reporting behavior). Also, I also developed a metric to analyze the expected reporting frequency based on the number of reported cases. Countries that report frequently although they don't have many cases receive a positve score and countries that don't report frequently and have a high incidence receive a negative score. Finally, I applied clustering to find salient patterns in reporting. This yields good results for the relative reporting behavior and mixed results for the binary reporting behavior. The latter seems to exhibit a bias towards large countries that seem to more frequently make reports than smaller countries (measured by population).
