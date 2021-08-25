@@ -1,0 +1,218 @@
+country,cluster
+Afghanistan,C
+Albania,C
+Algeria,C
+Andorra,C
+Angola,C
+Anguilla,D
+Antigua and Barbuda,C
+Argentina,C
+Armenia,C
+Aruba,B
+Australia,C
+Austria,C
+Azerbaijan,C
+Bahamas,C
+Bahrain,C
+Bangladesh,C
+Barbados,C
+Belarus,C
+Belgium,B
+Belize,E
+Benin,E
+Bermuda,E
+Bhutan,C
+Bolivia (Plurinational State of),C
+Bonaire,B
+Bosnia and Herzegovina,C
+Botswana,B
+Brazil,C
+Brunei Darussalam,C
+Bulgaria,B
+Burkina Faso,C
+Burundi,C
+Cabo Verde,C
+Cambodia,C
+Cameroon,B
+Canada,C
+Cayman Islands,E
+Chad,C
+Chile,C
+China,C
+Colombia,C
+Comoros,C
+Congo,E
+"Congo, Democratic Republic of the",C
+Costa Rica,C
+Croatia,E
+Cuba,C
+Curaçao,B
+Cyprus,C
+Czechia,C
+Côte d'Ivoire,C
+Denmark,C
+Djibouti,C
+Dominica,E
+Dominican Republic,C
+Ecuador,C
+Egypt,C
+El Salvador,B
+Equatorial Guinea,D
+Eritrea,B
+Estonia,C
+Eswatini,C
+Ethiopia,C
+Falkland Islands (Malvinas),C
+Faroe Islands,E
+Fiji,C
+Finland,C
+France,A
+French Guiana,C
+French Polynesia,B
+Gabon,B
+Gambia,C
+Georgia,B
+Germany,C
+Ghana,C
+Gibraltar,C
+Greece,C
+Greenland,C
+Grenada,C
+Guadeloupe,D
+Guam,B
+Guatemala,C
+Guernsey,A
+Guinea,C
+Guinea-Bissau,C
+Guyana,C
+Haiti,B
+Honduras,C
+Hungary,C
+Iceland,B
+India,C
+Indonesia,C
+Iran (Islamic Republic of),C
+Iraq,C
+Ireland,C
+Isle of Man,C
+Israel,C
+Italy,C
+Jamaica,C
+Japan,C
+Jersey,E
+Jordan,C
+Kazakhstan,C
+Kenya,C
+"Korea, Republic of",C
+Kosovo,C
+Kuwait,C
+Kyrgyzstan,C
+Lao People's Democratic Republic,C
+Latvia,C
+Lebanon,C
+Lesotho,B
+Liberia,B
+Libya,C
+Liechtenstein,C
+Lithuania,C
+Luxembourg,C
+Madagascar,A
+Malawi,C
+Malaysia,C
+Maldives,C
+Mali,C
+Malta,C
+Martinique,D
+Mauritania,C
+Mauritius,B
+Mayotte,C
+Mexico,C
+"Moldova, Republic of",C
+Monaco,E
+Mongolia,C
+Montenegro,C
+Montserrat,A
+Morocco,C
+Mozambique,C
+Myanmar,C
+Namibia,C
+Nepal,C
+Netherlands,C
+New Caledonia,C
+New Zealand,A
+Nicaragua,E
+Niger,A
+Nigeria,C
+North Macedonia,C
+Northern Mariana Islands,C
+Norway,B
+Oman,A
+Pakistan,C
+"Palestine, State of",C
+Panama,C
+Papua New Guinea,C
+Paraguay,C
+Peru,C
+Philippines,C
+Poland,C
+Portugal,C
+Puerto Rico,A
+Qatar,C
+Romania,C
+Russian Federation,C
+Rwanda,C
+Réunion,E
+Saba,B
+Saint Barthélemy,D
+Saint Kitts and Nevis,C
+Saint Lucia,C
+Saint Martin (French part),D
+Saint Pierre and Miquelon,D
+Saint Vincent and the Grenadines,C
+San Marino,B
+Sao Tome and Principe,C
+Saudi Arabia,C
+Senegal,C
+Serbia,C
+Seychelles,C
+Sierra Leone,C
+Singapore,C
+Sint Eustatius,B
+Sint Maarten (Dutch part),B
+Slovakia,C
+Slovenia,C
+Solomon Islands,A
+Somalia,A
+South Africa,C
+South Sudan,C
+Spain,C
+Sri Lanka,C
+Sudan,C
+Suriname,C
+Sweden,C
+Switzerland,B
+Syrian Arab Republic,C
+Tajikistan,D
+Thailand,C
+Timor-Leste,C
+Togo,C
+Trinidad and Tobago,C
+Tunisia,C
+Turkey,C
+Turks and Caicos Islands,C
+Uganda,C
+Ukraine,C
+United Arab Emirates,C
+United Kingdom of Great Britain and Northern Ireland,C
+United States of America,C
+Uruguay,C
+Uzbekistan,C
+Vanuatu,A
+Venezuela (Bolivarian Republic of),C
+Viet Nam,C
+Virgin Islands (British),C
+Virgin Islands (U.S.),C
+Wallis and Futuna,A
+Yemen,C
+Zambia,C
+Zimbabwe,C
