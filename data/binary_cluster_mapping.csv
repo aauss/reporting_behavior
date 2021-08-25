@@ -1,0 +1,223 @@
+country,cluster
+Afghanistan,A
+Albania,A
+Algeria,A
+Andorra,F
+Angola,D
+Anguilla,B
+Antigua and Barbuda,C
+Argentina,A
+Armenia,A
+Aruba,F
+Australia,A
+Austria,A
+Azerbaijan,A
+Bahamas,D
+Bahrain,A
+Bangladesh,A
+Barbados,D
+Belarus,A
+Belgium,A
+Belize,C
+Benin,E
+Bermuda,C
+Bhutan,C
+Bolivia (Plurinational State of),A
+Bonaire,E
+Bosnia and Herzegovina,A
+Botswana,E
+Brazil,A
+Brunei Darussalam,E
+Bulgaria,A
+Burkina Faso,D
+Burundi,D
+Cabo Verde,D
+Cambodia,C
+Cameroon,E
+Canada,A
+Cayman Islands,C
+Central African Republic,E
+Chad,D
+Chile,A
+China,A
+Colombia,A
+Comoros,E
+Congo,E
+"Congo, Democratic Republic of the",D
+Costa Rica,A
+Croatia,A
+Cuba,A
+Curaçao,F
+Cyprus,A
+Czechia,A
+Côte d'Ivoire,D
+Denmark,A
+Djibouti,D
+Dominica,B
+Dominican Republic,A
+Ecuador,A
+Egypt,A
+El Salvador,D
+Equatorial Guinea,E
+Eritrea,F
+Estonia,A
+Eswatini,D
+Ethiopia,A
+Falkland Islands (Malvinas),B
+Faroe Islands,E
+Fiji,E
+Finland,A
+France,A
+French Guiana,F
+French Polynesia,F
+Gabon,F
+Gambia,C
+Georgia,A
+Germany,A
+Ghana,D
+Gibraltar,C
+Greece,A
+Greenland,B
+Grenada,B
+Guadeloupe,C
+Guam,F
+Guatemala,A
+Guernsey,E
+Guinea,D
+Guinea-Bissau,C
+Guyana,D
+Haiti,D
+Holy See,B
+Honduras,A
+Hungary,A
+Iceland,D
+India,A
+Indonesia,A
+Iran (Islamic Republic of),A
+Iraq,A
+Ireland,A
+Isle of Man,E
+Israel,A
+Italy,A
+Jamaica,A
+Japan,A
+Jersey,C
+Jordan,A
+Kazakhstan,A
+Kenya,A
+"Korea, Republic of",A
+Kosovo,A
+Kuwait,A
+Kyrgyzstan,A
+Lao People's Democratic Republic,B
+Latvia,A
+Lebanon,A
+Lesotho,E
+Liberia,C
+Libya,D
+Liechtenstein,D
+Lithuania,A
+Luxembourg,A
+Madagascar,D
+Malawi,D
+Malaysia,A
+Maldives,A
+Mali,D
+Malta,A
+Marshall Islands,B
+Martinique,C
+Mauritania,D
+Mauritius,E
+Mayotte,F
+Mexico,A
+"Moldova, Republic of",A
+Monaco,D
+Mongolia,D
+Montenegro,D
+Montserrat,B
+Morocco,A
+Mozambique,D
+Myanmar,D
+Namibia,D
+Nepal,A
+Netherlands,A
+New Caledonia,B
+New Zealand,D
+Nicaragua,E
+Niger,D
+Nigeria,A
+North Macedonia,A
+Northern Mariana Islands,E
+Norway,F
+Oman,D
+Pakistan,A
+"Palestine, State of",A
+Panama,A
+Papua New Guinea,E
+Paraguay,A
+Peru,A
+Philippines,A
+Poland,A
+Portugal,A
+Puerto Rico,A
+Qatar,A
+Romania,A
+Russian Federation,A
+Rwanda,D
+Réunion,F
+Saba,B
+Saint Barthélemy,B
+Saint Kitts and Nevis,B
+Saint Lucia,C
+Saint Martin (French part),B
+Saint Pierre and Miquelon,B
+Saint Vincent and the Grenadines,C
+Samoa,B
+San Marino,F
+Sao Tome and Principe,C
+Saudi Arabia,A
+Senegal,A
+Serbia,A
+Seychelles,C
+Sierra Leone,D
+Singapore,A
+Sint Eustatius,B
+Sint Maarten (Dutch part),F
+Slovakia,A
+Slovenia,A
+Solomon Islands,B
+Somalia,E
+South Africa,A
+South Sudan,D
+Spain,A
+Sri Lanka,A
+Sudan,D
+Suriname,D
+Sweden,A
+Switzerland,A
+Syrian Arab Republic,D
+Tajikistan,C
+"Tanzania, United Republic of",B
+Thailand,A
+Timor-Leste,E
+Togo,D
+Trinidad and Tobago,D
+Tunisia,A
+Turkey,A
+Turks and Caicos Islands,C
+Uganda,D
+Ukraine,A
+United Arab Emirates,A
+United Kingdom of Great Britain and Northern Ireland,A
+United States of America,A
+Uruguay,A
+Uzbekistan,A
+Vanuatu,B
+Venezuela (Bolivarian Republic of),A
+Viet Nam,D
+Virgin Islands (British),B
+Virgin Islands (U.S.),C
+Wallis and Futuna,B
+Yemen,D
+Zambia,D
+Zimbabwe,D
