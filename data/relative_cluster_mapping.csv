@@ -1,218 +1,215 @@
 country,cluster
-Afghanistan,C
-Albania,C
-Algeria,C
+Afghanistan,A
+Albania,A
+Algeria,A
 Andorra,C
-Angola,C
-Anguilla,D
-Antigua and Barbuda,C
-Argentina,C
-Armenia,C
-Aruba,B
-Australia,C
-Austria,C
-Azerbaijan,C
-Bahamas,C
-Bahrain,C
-Bangladesh,C
-Barbados,C
-Belarus,C
-Belgium,B
-Belize,E
+Angola,A
+Antigua and Barbuda,A
+Argentina,A
+Armenia,A
+Aruba,C
+Australia,A
+Austria,A
+Azerbaijan,A
+Bahamas,B
+Bahrain,A
+Bangladesh,A
+Barbados,B
+Belarus,A
+Belgium,C
+Belize,A
 Benin,E
 Bermuda,E
-Bhutan,C
-Bolivia (Plurinational State of),C
-Bonaire,B
-Bosnia and Herzegovina,C
-Botswana,B
-Brazil,C
-Brunei Darussalam,C
-Bulgaria,B
-Burkina Faso,C
-Burundi,C
-Cabo Verde,C
-Cambodia,C
+Bhutan,A
+Bolivia (Plurinational State of),A
+Bonaire,C
+Bosnia and Herzegovina,A
+Botswana,C
+Brazil,A
+Brunei Darussalam,A
+Bulgaria,C
+Burkina Faso,A
+Burundi,A
+Cabo Verde,A
+Cambodia,A
 Cameroon,B
-Canada,C
-Cayman Islands,E
-Chad,C
-Chile,C
-China,C
-Colombia,C
-Comoros,C
-Congo,E
-"Congo, Democratic Republic of the",C
-Costa Rica,C
-Croatia,E
-Cuba,C
-Curaçao,B
-Cyprus,C
+Canada,A
+Cayman Islands,C
+Chile,A
+China,A
+Colombia,A
+Comoros,A
+Congo,D
+"Congo, Democratic Republic of the",A
+Costa Rica,A
+Croatia,A
+Cuba,A
+Cyprus,A
 Czechia,C
-Côte d'Ivoire,C
-Denmark,C
+Côte d'Ivoire,A
+Denmark,A
 Djibouti,C
-Dominica,E
-Dominican Republic,C
-Ecuador,C
-Egypt,C
-El Salvador,B
-Equatorial Guinea,D
-Eritrea,B
-Estonia,C
-Eswatini,C
-Ethiopia,C
-Falkland Islands (Malvinas),C
-Faroe Islands,E
-Fiji,C
-Finland,C
+Dominica,C
+Dominican Republic,A
+Ecuador,A
+Egypt,A
+El Salvador,D
+Equatorial Guinea,C
+Eritrea,C
+Estonia,A
+Eswatini,A
+Ethiopia,A
+Falkland Islands (Malvinas),D
+Faroe Islands,A
+Fiji,D
+Finland,A
 France,A
 French Guiana,C
-French Polynesia,B
-Gabon,B
+French Polynesia,C
+Gabon,C
 Gambia,C
-Georgia,B
+Georgia,A
 Germany,C
-Ghana,C
-Gibraltar,C
-Greece,C
+Ghana,A
+Gibraltar,A
+Greece,A
 Greenland,C
-Grenada,C
-Guadeloupe,D
-Guam,B
-Guatemala,C
-Guernsey,A
-Guinea,C
+Grenada,B
+Guadeloupe,A
+Guatemala,A
+Guernsey,B
+Guinea,A
 Guinea-Bissau,C
-Guyana,C
+Guyana,A
 Haiti,B
-Honduras,C
-Hungary,C
-Iceland,B
-India,C
-Indonesia,C
-Iran (Islamic Republic of),C
-Iraq,C
-Ireland,C
-Isle of Man,C
-Israel,C
-Italy,C
-Jamaica,C
-Japan,C
-Jersey,E
-Jordan,C
+Holy See,D
+Honduras,A
+Hungary,A
+Iceland,D
+India,A
+Indonesia,A
+Iran (Islamic Republic of),A
+Iraq,A
+Ireland,A
+Isle of Man,B
+Israel,A
+Italy,A
+Jamaica,A
+Japan,A
+Jersey,C
+Jordan,B
 Kazakhstan,C
-Kenya,C
-"Korea, Republic of",C
-Kosovo,C
-Kuwait,C
-Kyrgyzstan,C
-Lao People's Democratic Republic,C
-Latvia,C
-Lebanon,C
-Lesotho,B
-Liberia,B
-Libya,C
-Liechtenstein,C
+Kenya,A
+"Korea, Republic of",A
+Kosovo,A
+Kuwait,A
+Kyrgyzstan,A
+Lao People's Democratic Republic,D
+Latvia,A
+Lebanon,A
+Lesotho,C
+Liberia,D
+Libya,B
+Liechtenstein,A
 Lithuania,C
-Luxembourg,C
+Luxembourg,A
 Madagascar,A
-Malawi,C
-Malaysia,C
-Maldives,C
-Mali,C
-Malta,C
+Malawi,A
+Malaysia,A
+Maldives,A
+Mali,A
+Malta,A
+Marshall Islands,D
 Martinique,D
-Mauritania,C
+Mauritania,B
 Mauritius,B
 Mayotte,C
-Mexico,C
-"Moldova, Republic of",C
-Monaco,E
-Mongolia,C
-Montenegro,C
-Montserrat,A
-Morocco,C
-Mozambique,C
-Myanmar,C
-Namibia,C
-Nepal,C
-Netherlands,C
+Mexico,A
+"Moldova, Republic of",A
+Monaco,C
+Mongolia,A
+Montenegro,A
+Morocco,A
+Mozambique,A
+Myanmar,A
+Namibia,A
+Netherlands,A
 New Caledonia,C
 New Zealand,A
 Nicaragua,E
-Niger,A
-Nigeria,C
-North Macedonia,C
-Northern Mariana Islands,C
-Norway,B
-Oman,A
-Pakistan,C
-"Palestine, State of",C
-Panama,C
-Papua New Guinea,C
-Paraguay,C
-Peru,C
-Philippines,C
-Poland,C
-Portugal,C
+Niger,D
+Nigeria,A
+North Macedonia,A
+Northern Mariana Islands,B
+Norway,C
+Oman,B
+Pakistan,A
+"Palestine, State of",A
+Panama,A
+Papua New Guinea,A
+Paraguay,A
+Peru,A
+Philippines,A
+Poland,A
+Portugal,A
 Puerto Rico,A
-Qatar,C
-Romania,C
-Russian Federation,C
-Rwanda,C
-Réunion,E
-Saba,B
-Saint Barthélemy,D
-Saint Kitts and Nevis,C
-Saint Lucia,C
-Saint Martin (French part),D
-Saint Pierre and Miquelon,D
+Qatar,A
+Romania,A
+Russian Federation,A
+Rwanda,A
+Réunion,C
+Saba,D
+Saint Barthélemy,A
+Saint Kitts and Nevis,D
+Saint Lucia,A
+Saint Martin (French part),A
+Saint Pierre and Miquelon,A
 Saint Vincent and the Grenadines,C
-San Marino,B
-Sao Tome and Principe,C
-Saudi Arabia,C
-Senegal,C
-Serbia,C
-Seychelles,C
-Sierra Leone,C
-Singapore,C
-Sint Eustatius,B
-Sint Maarten (Dutch part),B
-Slovakia,C
-Slovenia,C
-Solomon Islands,A
-Somalia,A
-South Africa,C
-South Sudan,C
-Spain,C
-Sri Lanka,C
-Sudan,C
-Suriname,C
-Sweden,C
-Switzerland,B
-Syrian Arab Republic,C
-Tajikistan,D
-Thailand,C
-Timor-Leste,C
-Togo,C
-Trinidad and Tobago,C
-Tunisia,C
-Turkey,C
-Turks and Caicos Islands,C
+Samoa,E
+San Marino,C
+Saudi Arabia,A
+Senegal,A
+Serbia,A
+Seychelles,D
+Sierra Leone,D
+Singapore,A
+Sint Eustatius,D
+Sint Maarten (Dutch part),C
+Slovakia,A
+Slovenia,A
+Solomon Islands,B
+Somalia,D
+South Africa,A
+South Sudan,B
+Spain,A
+Sri Lanka,A
+Sudan,A
+Suriname,A
+Sweden,A
+Switzerland,C
+Syrian Arab Republic,A
+Tajikistan,A
+"Tanzania, United Republic of",D
+Thailand,D
+Timor-Leste,D
+Togo,A
+Trinidad and Tobago,B
+Tunisia,A
+Turkey,A
+Turks and Caicos Islands,A
 Uganda,C
 Ukraine,C
-United Arab Emirates,C
-United Kingdom of Great Britain and Northern Ireland,C
-United States of America,C
-Uruguay,C
-Uzbekistan,C
-Vanuatu,A
-Venezuela (Bolivarian Republic of),C
+United Arab Emirates,A
+United Kingdom of Great Britain and Northern Ireland,A
+United States of America,A
+Uruguay,A
+Uzbekistan,A
+Vanuatu,E
+Venezuela (Bolivarian Republic of),A
 Viet Nam,C
 Virgin Islands (British),C
-Virgin Islands (U.S.),C
-Wallis and Futuna,A
+Virgin Islands (U.S.),A
+Wallis and Futuna,B
 Yemen,C
-Zambia,C
-Zimbabwe,C
+Zambia,A
+Zimbabwe,A
