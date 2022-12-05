@@ -6,7 +6,7 @@ If you want to run the code yourself and you have conda, just run `conda env cre
 
 ### Packages
 
-For the analyses, I used matplotlib and altair for plotting. For data processing, I used pandas, for data scraping requests, and for data modelling scikit-learn and ts-learn. My analyses are shown as .ipynb for which I used JupyterLab.
+For the analyses, I used matplotlib and altair for plotting. For data processing, I used pandas, for data scraping requests, and for data modelling scikit-learn and ts-learn. My analyses are conducted and visible in the reporting_behavior.ipynb for which I used JupyterLab.
 
 ## Motivation
 
@@ -18,7 +18,7 @@ This repo contains the main findings as plots in the figures folder. The env.yml
 
 ## Content
 
-I analyzed the data based on two different aspects: whether countries made a report stratified by weekday (binary reporting behavior) and how the sum of reported cases per week are distributed per weekday (relative reporting behavior). Also, I also developed a metric to analyze the expected reporting frequency based on the number of reported cases. Countries that report frequently although they don't have many cases receive a positive score and countries that don't report frequently and have a high incidence receive a negative score. Finally, I applied clustering to find salient patterns in reporting. This yields good results for the relative reporting behavior and mixed results for the binary reporting behavior. The latter seems to exhibit a bias towards large countries that seem to more frequently make reports than smaller countries (measured by population) which I tried mitigating using a custom imputation method.
+I analyzed the data based on two different aspects: whether countries made a report stratified by weekday (binary reporting rate) and how the sum of reported cases per week are distributed per weekday (relative reporting behavior). Also, I  developed a metric - simply named reporting score - to analyze the expected reporting frequency based on the number of reported cases. Countries that report frequently although they don't have many cases receive a positive score and countries that don't report frequently and have a high incidence receive a negative score. Finally, I applied clustering to find salient patterns in binary reporting rates and relative reporting behavior. Since the size of a country may negatively influences  scores, I offer an imputation approach to counter balance alleged low reporting that may very well be due to no COVID-19 infections happening in these small (and mostly isolated) countries. 
 
 Exact results and approach can be found the in the notebook.
 
